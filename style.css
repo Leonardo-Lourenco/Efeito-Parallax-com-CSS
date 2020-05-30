@@ -1,0 +1,31 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.Parallax
+{
+	height: 2000px;
+}
+
+.conteudo
+{
+	padding: 280px 0;
+	background-image: url(1.jpg);
+	-webkit-background-size:cover;
+	background-position: center center;
+	background-attachment: fixed;
+	transition:  .2s;
+}
+
+.conteudo
+{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: poppins;
+	color: yellow;
+	font-size: 50px;
+	text-shadow:  0 2px 5px #000;
+	font-weight: 900px;
+}
